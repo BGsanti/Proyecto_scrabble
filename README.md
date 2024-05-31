@@ -28,6 +28,6 @@ descripcion de cada clase a traves de su archivo de encabezado:
 
 # Ejecución:
 - Por consola se debe ejecutar usando un compilador de C++ el archivo "Consola.cpp". Posteriormente, cuando ya se ejecutó, se escribe el comando "ayuda", en el cual se explica adecuadamente cómo usar cada comando. Si se necesita más información sobre un comando dado, se puede dar el comando "ayuda (comando_cualquiera)" sin los paréntesis, sobre el cual se quiere más información.
-- Se podria ejecutar usando compiladores online como "replit" si se sube todos los archivos de este proyecto incluyendo .cpp, .h y .txt. posterior a subir este documento se ejecuta en el boton de "Run" para replit o el boton de ejecucion de otros compiladores online de c++
+- Se podria ejecutar usando compiladores online como "replit" si se sube todos los archivos de este proyecto incluyendo .cpp, .h y .txt. posterior a subir este documento se ejecuta en el boton de "Run" para replit o el boton de ejecucion de otros compiladores online de c++.
 
-A continuación, dejaré un enlace del proyecto en Replit, que es donde principalmente se desarrolló este proyecto: https://replit.com/@SantiagoBarrer6/ProyectoScrable?v=1
+A continuación, dejaré un enlace del proyecto en Replit, que es donde principalmente se desarrolló este proyecto: https://replit.com/@SantiagoBarrer6/ProyectoScrable?v=1.
