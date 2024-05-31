@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo ser una asistencia al momento de jugar "Scrabb
 
 # Composición: 
 
-se compone de 3 grandes entregas este proyecto:
+Se compone de 3 grandes entregas este proyecto:
 
   1 Entrega: se planteaba la forma de comunicación del usuario final a la máquina a través de la consola, y se proponían estructuras básicas como listas, vectores, pilas y colas con el objetivo de analizar un archivo de formato "txt" y verificar que las palabras de este archivo fueran válidas para el idioma inglés. El fin de esta entrega era inicializar el sistema.
   
@@ -26,4 +26,5 @@ descripcion de cada clase a traves de su archivo de encabezado:
   - Grafo.h: proporciona una estructura y métodos completos para manipular y explorar un grafo de palabras, permitiendo operaciones básicas como inserción, eliminación y búsqueda, así como la generación de palabras basadas en comodines.
   - Arbol_dec: El archivo proporciona la estructura y funcionalidad para trabajar con un árbol de palabras, incluyendo inserción, búsqueda, eliminación, y procesamiento de archivos para construir el árbol para encontrar palabras dado un sufijo o prefijo.
 
-Ejecución: Por consola se debe ejecutar usando un compilador de C++ el archivo "Consola.cpp". Posteriormente, cuando ya se ejecutó, se escribe el comando "ayuda", en el cual se explica adecuadamente cómo usar cada comando. Si se necesita más información sobre un comando dado, se puede dar el comando "ayuda (comando_cualquiera)" sin los paréntesis, sobre el cual se quiere más información.
+# Ejecución:
+Por consola se debe ejecutar usando un compilador de C++ el archivo "Consola.cpp". Posteriormente, cuando ya se ejecutó, se escribe el comando "ayuda", en el cual se explica adecuadamente cómo usar cada comando. Si se necesita más información sobre un comando dado, se puede dar el comando "ayuda (comando_cualquiera)" sin los paréntesis, sobre el cual se quiere más información.
