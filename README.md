@@ -22,3 +22,4 @@ descripcion de cada clase a traves de su archivo de encabezado:
   - Grafo.h: proporciona una estructura y métodos completos para manipular y explorar un grafo de palabras, permitiendo operaciones básicas como inserción, eliminación y búsqueda, así como la generación de palabras basadas en comodines.
   - Arbol_dec: El archivo proporciona la estructura y funcionalidad para trabajar con un árbol de palabras, incluyendo inserción, búsqueda, eliminación, y procesamiento de archivos para construir el árbol para encontrar palabras dado un sufijo o prefijo.
 
+Ejecución: Por consola se debe ejecutar usando un compilador de C++ el archivo "Consola.cpp". Posteriormente, cuando ya se ejecutó, se escribe el comando "ayuda", en el cual se explica adecuadamente cómo usar cada comando. Si se necesita más información sobre un comando dado, se puede dar el comando "ayuda (comando_cualquiera)" sin los paréntesis, sobre el cual se quiere más información.
