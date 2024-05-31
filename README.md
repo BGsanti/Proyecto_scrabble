@@ -1,6 +1,6 @@
 # Proyecto_Scrabble
 # Integrantes: 
-ANDRÉS FELIPE GALÁN CÁRDENAS, SANTIAGO BARRERO GRANADOS, JERÓNIMO VANEGAS JIMÉNEZ, SAMUEL ANDRÉS TOVAR SARMIENTO y SEBASTIÁN SÁNCHEZ OLAYA.
+Andrés Felipe Galán Cárdenas, Santiago Barrero Granados, Jerónimo Vanegas Jiménez, Samuel Andrés Tovar Sarmiento y Sebastián Sánchez Olaya.
 
 Este proyecto fue construido para la clase Estructura de Datos en el primer semestre de 2024.
 
